@@ -9,7 +9,7 @@
 
 ### OSINT Tools and Resources
 
-* [GoVanguard/list-pentest-tools](https://github.com/GoVanguard/list-pentest-tools#osint-tools)
+* [GoVanguard/list-pentest-tools](https://github.com/GoVanguard/list-pentest-tools#osint-tools) - GoVanguard's list of OSINT tools.
 * [Awesome OSINT](https://github.com/jivoi/awesome-osint) - Awesome list of OSINT
 * [OSINT Framework](http://osintframework.com/) - Collection of various OSInt tools broken out by category.
 * [Intel Techniques](https://inteltechniques.com/menu.html) - A collection of OSINT tools. Menu on the left can be used to navigate through the categories.
